@@ -1,7 +1,7 @@
 # Opencore v0.7.7 EFI MacOS Monterey
 EFI configurations and files for DELL Inspiron 5567 15" i5 7200u
 
-
+![Device Info](https://i.ibb.co/9pkhL63/Screenshot-2022-01-30-00-33-40.png)
 
 * OS: Monterey 12.2
 * Processor: Intel Core i5-7200U
